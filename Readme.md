@@ -7,7 +7,7 @@ This Docker image comes with:
 - Android SDK ✅
 - Flutter command alias that ensures FVM has a flutter version installed ✅
 
-# Contribution
+# Usage
 You can use this docker image as follows:
 ```bash
 docker run -it alyssuuu/flutter:fvm
